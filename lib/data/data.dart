@@ -15,6 +15,16 @@ List<CountryModel> getCountrys() {
       "https://amyscrypt.com/wp-content/uploads/2018/12/Dumas-Beach-Haunted_-2.jpg";
   country.add(countryModel);
   countryModel = new CountryModel();
+  
+   countryModel.countryName = "Dumas Beach";
+  countryModel.cdesc =
+      "One of the very known places in the list of haunted places in India, which is located along the Arabian Sea and 21 km southwest of Surat city. It is a popular destination where tourists come to enjoy the calmness and beautiful scenic views all around the city. The black sand of this beach attracts thousands of tourists per year. One striking highlight of the beach is the paranormal activities. The amazing quality of this beach is that you will find only black sand all around the beach that is why it is otherwise called as the Black Beach";
+  countryModel.noOfTours = 18;
+  countryModel.rating = 4.5;
+  countryModel.imgUrl =
+      "https://amyscrypt.com/wp-content/uploads/2018/12/Dumas-Beach-Haunted_-2.jpg";
+  country.add(countryModel);
+  countryModel = new CountryModel();
 
   //2
   countryModel.countryName = "Jagdishchandra\nBose \nAquarium";
