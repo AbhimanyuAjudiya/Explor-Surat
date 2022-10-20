@@ -319,5 +319,15 @@ List<PopularTourModel> getPopularTours() {
   popularTourModels.add(popularTourModel);
   popularTourModel = new PopularTourModel();
 
+     popularTourModel.imgUrl =
+      "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/chintamani-jain-temple-400x229.jpg";
+  popularTourModel.title = "Chintamani Jain Temple";
+  popularTourModel.desc =
+      "Chintamani Jain Temple is one of the oldest Jain temples in surat built in 1699 AD. The highlight of the temple is the vegetable dye paintings of Jain preacher Solanki King, Acharya Hemchandra,  and King Kumarpala. The temple is said to be built to honour those people. People are attracted to this temple in large numbers because of its amazing piece of creativity and historic feel to it.";
+  popularTourModel.price = "Free";
+  popularTourModel.rating = 4.5;
+  popularTourModels.add(popularTourModel);
+  popularTourModel = new PopularTourModel();
+
   return popularTourModels;
 }
