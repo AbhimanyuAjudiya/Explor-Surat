@@ -3,6 +3,7 @@ Travelling app to explor new places in surat.
 
 ### Follow the below steps for contribution
 
+
 > 1. first fork this repo 
 > 2. make a directory/folder on your local system and initial it,
 ```sh
