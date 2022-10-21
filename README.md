@@ -14,6 +14,7 @@ git init
 git clone "your forked repo url"
 ```
 > 4. Work on the project
+
 > 6. after creating your changes and in order to add your changes run the following command 
 ```sh
 git add .
